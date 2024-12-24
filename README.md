@@ -18,7 +18,9 @@
 
 ### Resutados obtidos
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./pagina_falsa.png "Optional title")
+![Alt text](./resultados.png "Optional title")
+
 
 ### DESVANTAGENS DESTE METÓDO:
 

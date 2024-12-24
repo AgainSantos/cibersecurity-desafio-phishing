@@ -16,7 +16,7 @@
 - Obtendo o endereço da máquina: ``` (obs: Deixe em branco para clonar o site alvo no localhost do dispositivo) ```
 - URL para clone: https://www.github.com/login
 
-### RESULTADos OBTIDOS
+### RESULTADOS OBTIDOS
 
 ![image alt](https://github.com/AgainSantos/cibersecurity-desafio-phishing/blob/master/pagina%20falsa.PNG?raw=true)
 
